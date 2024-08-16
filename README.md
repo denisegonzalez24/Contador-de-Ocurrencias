@@ -43,14 +43,6 @@ La interfaz gráfica del aplicativo facilita la interacción con el usuario, per
 <p align=center><img src=images/UML.jpg width="800"><p>
    
 </details>
-## Ejecución ⚙️
-
-Para ejecutar la aplicación, sigue estos pasos:
-
-1. Clona el repositorio.
-2. Asegúrate de tener instalado un entorno de Python compatible.
-3. Instala las dependencias necesarias.
-4. Ejecuta el archivo principal para iniciar la interfaz gráfica y comenzar a usar la aplicación.
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request para discutir cualquier cambio importante.
