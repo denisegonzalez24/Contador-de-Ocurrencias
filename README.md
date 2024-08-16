@@ -1,6 +1,6 @@
 # Buscador de Máximas Ocurrencias 🔍
 
-<p align=center><img src=images width="400"><p>
+<p align=center><img src=images/analysis4.avif width="400"><p>
 
 
 Este proyecto implementa un buscador de máximas ocurrencias diseñado para procesar conjuntos de datos almacenados en archivos CSV. Su objetivo es identificar y mostrar los elementos con mayor cantidad de apariciones dentro de los datasets seleccionados por el usuario.
@@ -37,7 +37,12 @@ La interfaz gráfica del aplicativo facilita la interacción con el usuario, per
 3. **Consulta1**: Compara los tiempos de ejecución de ambos métodos.
 4. **Consulta2**: Muestra el camino a la hoja más izquierda de la Heap.
 5. **Consulta3**: Expone la estructura de la Heap, mostrando los niveles de cada elemento.
-
+   
+<details>
+## UML de Clases
+<p align=center><img src=images/UML.jpg width="400"><p>
+   
+</details>
 ## Ejecución ⚙️
 
 Para ejecutar la aplicación, sigue estos pasos:
