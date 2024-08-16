@@ -51,4 +51,4 @@ Gracias por visitar este repositorio y por tu interés en el proyecto
 
 ## Mis datos
 linkedin 
-www.linkedin.com/in/nissedgonzalezm
+https://www.linkedin.com/in/nissegonzalezm/
