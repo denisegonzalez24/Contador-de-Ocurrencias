@@ -1,0 +1,35 @@
+C:\Users\java\Documents\SharpDevelop Projects\WiW\WiW\bin\Debug\WiW.exe.config
+C:\Users\java\Documents\SharpDevelop Projects\WiW\WiW\bin\Debug\WiW.exe
+C:\Users\java\Documents\SharpDevelop Projects\WiW\WiW\bin\Debug\WiW.pdb
+C:\Users\java\Documents\SharpDevelop Projects\WiW\WiW\obj\Debug\WiW.csprojResolveAssemblyReference.cache
+C:\Users\java\Documents\SharpDevelop Projects\WiW\WiW\obj\Debug\WiW.Form1.resources
+C:\Users\java\Documents\SharpDevelop Projects\WiW\WiW\obj\Debug\WiW.Resultado.resources
+C:\Users\java\Documents\SharpDevelop Projects\WiW\WiW\obj\Debug\WiW.Consultas.resources
+C:\Users\java\Documents\SharpDevelop Projects\WiW\WiW\obj\Debug\WiW.Inicio.resources
+C:\Users\java\Documents\SharpDevelop Projects\WiW\WiW\obj\Debug\WiW.csproj.GenerateResource.Cache
+C:\Users\java\Documents\SharpDevelop Projects\WiW\WiW\obj\Debug\WiW.exe
+C:\Users\java\Documents\SharpDevelop Projects\WiW\WiW\obj\Debug\WiW.pdb
+C:\Users\java\Desktop\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.csprojResolveAssemblyReference.cache
+C:\Users\java\Desktop\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.Form1.resources
+C:\Users\java\Desktop\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.Form2.resources
+C:\Users\java\Desktop\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.Consultas.resources
+C:\Users\java\Desktop\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.Inicio.resources
+C:\Users\java\Desktop\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.csproj.GenerateResource.Cache
+C:\Users\java\Desktop\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.FormUser.resources
+C:\Users\java\Desktop\TPF_WIW_Sharp\WiW_Sharp\WiW\bin\Debug\WiW.exe.config
+C:\Users\java\Desktop\TPF_WIW_Sharp\WiW_Sharp\WiW\bin\Debug\WiW.exe
+C:\Users\java\Desktop\TPF_WIW_Sharp\WiW_Sharp\WiW\bin\Debug\WiW.pdb
+C:\Users\java\Desktop\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.exe
+C:\Users\java\Desktop\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.pdb
+C:\Users\usuario\Desktop\SharpOcurrencias\WiW\bin\Debug\WiW.exe.config
+C:\Users\usuario\Desktop\SharpOcurrencias\WiW\bin\Debug\WiW.exe
+C:\Users\usuario\Desktop\SharpOcurrencias\WiW\bin\Debug\WiW.pdb
+C:\Users\usuario\Desktop\SharpOcurrencias\WiW\obj\Debug\WiW.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\SharpOcurrencias\WiW\obj\Debug\WiW.Form1.resources
+C:\Users\usuario\Desktop\SharpOcurrencias\WiW\obj\Debug\WiW.Form2.resources
+C:\Users\usuario\Desktop\SharpOcurrencias\WiW\obj\Debug\WiW.Consultas.resources
+C:\Users\usuario\Desktop\SharpOcurrencias\WiW\obj\Debug\WiW.Inicio.resources
+C:\Users\usuario\Desktop\SharpOcurrencias\WiW\obj\Debug\WiW.ListItem.resources
+C:\Users\usuario\Desktop\SharpOcurrencias\WiW\obj\Debug\WiW.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\SharpOcurrencias\WiW\obj\Debug\WiW.exe
+C:\Users\usuario\Desktop\SharpOcurrencias\WiW\obj\Debug\WiW.pdb
