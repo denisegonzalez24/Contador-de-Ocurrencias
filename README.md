@@ -12,7 +12,7 @@ El sistema permite al usuario cargar un archivo CSV y, a partir de los datos con
 La interfaz gráfica del aplicativo facilita la interacción con el usuario, permitiéndole seleccionar el número de resultados a mostrar y ejecutar las búsquedas de manera intuitiva. Los resultados se visualizan de forma clara, proporcionando una experiencia de usuario eficiente para el análisis de grandes volúmenes de datos.
 
 <details>
-<summary> ## Funcionalidades Principales 🚀 </summary>
+<summary> Funcionalidades Principales 🚀 </summary>
 
 1. **Cargar CSV**: Permite al usuario seleccionar y cargar un archivo CSV con los datos a procesar.
 2. **Métodos de Búsqueda**: Ofrece dos métodos de búsqueda:
@@ -23,7 +23,7 @@ La interfaz gráfica del aplicativo facilita la interacción con el usuario, per
 </details>
 
 <details>
-<summary> ## Instrucciones de Uso 📝 </summary>
+<summary>  Instrucciones de Uso 📝 </summary>
 
 1. **Cargar Datos**: Selecciona un archivo CSV desde la interfaz para cargar los datos.
 2. **Configurar Búsqueda**: Elige el método de búsqueda y ajusta la cantidad de resultados a mostrar utilizando la barra deslizante.
