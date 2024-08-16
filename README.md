@@ -40,7 +40,7 @@ La interfaz gráfica del aplicativo facilita la interacción con el usuario, per
    
 <details>
 ## UML de Clases
-<p align=center><img src=images/UML.jpg width="400"><p>
+<p align=center><img src=images/UML.jpg width="800"><p>
    
 </details>
 ## Ejecución ⚙️
