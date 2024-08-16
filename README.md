@@ -1,6 +1,6 @@
-# Buscador de Máximas Ocurrencias 🔍
+## <h1 align=center> # Buscador de Máximas Ocurrencias 🔍 </h1>
 
-<p align=center><img src=images/analysis4.avif width="400"><p>
+<p align=center><img src=images/analysis4.avif width="200"><p>
 
 
 Este proyecto implementa un buscador de máximas ocurrencias diseñado para procesar conjuntos de datos almacenados en archivos CSV. Su objetivo es identificar y mostrar los elementos con mayor cantidad de apariciones dentro de los datasets seleccionados por el usuario.
